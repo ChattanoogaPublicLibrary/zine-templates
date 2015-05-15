@@ -1,0 +1,47 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BebasNeueBold
+FamilyName:Bebas Neue
+StyleName:Bold
+MenuName:Bebas Neue Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Bebas Neue Bold
+WritingScript:Roman
+OutlineFileName:\BebasNeue Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101772
+FileModTime:1389694578
+NameArray:0,Mac,4,Bebas Neue Bold
+NameArray:0,Win,1,Bebas Neue Bold
+NameArray:0,Win,16,Bebas Neue
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Regular
+FamilyName:Roboto
+StyleName:Regular
+MenuName:Roboto
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Roboto
+WritingScript:Roman
+OutlineFileName:\Roboto-Regular.ttf
+DataFormat:sfntData
+FileLength:162876
+FileModTime:1422974758
+NameArray:0,Win,1,Roboto
+%EndFont
+
